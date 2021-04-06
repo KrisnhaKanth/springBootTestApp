@@ -22,4 +22,13 @@ public class MessageRunner implements CommandLineRunner {
 
 	}
 
+
+// His related changes
+      public void doprocess(){
+     //logic goes
+       }
+// HIS Related changes-2
+public void doget(){
+}
+
 }
