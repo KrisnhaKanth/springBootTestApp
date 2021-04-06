@@ -7,9 +7,10 @@ public class MessageRunner implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
+		int a =10;
 		System.out.println("WLCOME TO SPRING BOOTAPP");
 		System.out.println("hello git");
-		System.out.println("hello github");
+
 		// TODO Auto-generated method stub
 
 	}
